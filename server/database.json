@@ -1,0 +1,469 @@
+{
+  "users": [
+    {
+      "id": "mf3alog2sixhomkm63f",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "$2a$12$K9RlC1o5.7q8WQZzVJ5YJeY5r5j5VJ5YJeY5r5j5VJ5YJeY5r5j5VJ",
+      "role": "student",
+      "phone": "123-456-7890",
+      "bio": "Computer Science student looking for guidance",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-09-03T01:22:31.298Z"
+    },
+    {
+      "id": "mf3alog92bin10y6xcu",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "$2a$12$K9RlC1o5.7q8WQZzVJ5YJeY5r5j5VJ5YJeY5r5j5VJ5YJeY5r5j5VJ",
+      "role": "mentor",
+      "phone": "098-765-4321",
+      "bio": "Experienced software engineer with 10+ years of experience",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-09-03T01:22:31.305Z"
+    },
+    {
+      "id": "mf3alog99ueb5l8adf",
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "password": "$2a$12$K9RlC1o5.7q8WQZzVJ5YJeY5r5j5VJ5YJeY5r5j5VJ5YJeY5r5j5VJ",
+      "role": "student",
+      "phone": "555-123-4567",
+      "bio": "Mathematics major interested in data science",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-09-03T01:22:31.305Z"
+    },
+    {
+      "id": "mf3alog9dgffidxpil6",
+      "name": "Robert Brown",
+      "email": "robert@example.com",
+      "password": "$2a$12$K9RlC1o5.7q8WQZzVJ5YJeY5r5j5VJ5YJeY5r5j5VJ5YJeY5r5j5VJ",
+      "role": "mentor",
+      "phone": "555-987-6543",
+      "bio": "Data scientist with expertise in machine learning",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-09-03T01:22:31.305Z"
+    },
+    {
+      "id": "mf3amal8jyz7j16q3o",
+      "name": "Sahiram Siyag",
+      "email": "sahiramsiyag28@gmail.com",
+      "password": "$2a$12$lF6nAMLBJ1fHBtpNCCjxJ.N1DqnCcQ4hq32XjWA0s3OrUv97z4mG2",
+      "role": "mentor",
+      "phone": "09587823725",
+      "bio": "",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-09-03T01:22:59.996Z"
+    },
+    {
+      "id": "mf3cwio0xtv00r8w83",
+      "name": "Sahiram Siyag",
+      "email": "sahiramsiyag@gmail.com",
+      "password": "$2b$12$IR6STMBeuUIEGDJ8qT6see0mn.JBFyJFJHXmOwV3qd2IDqmbnwyje",
+      "role": "mentor",
+      "phone": "09587823725",
+      "bio": "",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-09-03T02:26:56.258Z"
+    },
+    {
+      "id": "mf3eyki908tjrqkk787e",
+      "name": "LAKSHYA SODANI",
+      "email": "lakshyasodani3425@gmail.com",
+      "password": "$2b$12$41HhFukFlP6LwMZeMfTcMO4yK/lVh0O.4nMsbu1gKKhAJcHrRjMSq",
+      "role": "mentor",
+      "phone": "9587855555",
+      "bio": "TY BCA student",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-09-03T03:24:31.185Z"
+    },
+    {
+      "id": "mf3fu2z3l9aqimzpgb",
+      "name": "LAKSHYA SODANI",
+      "email": "lakshyasodani@gmail.com",
+      "password": "$2b$12$EK3IVFyjvOH2GEMxnz/JletlbSYLDS15wR3RZbMbhYAqHOrj0N4kW",
+      "role": "student",
+      "phone": "02611929125",
+      "bio": "BCA student",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-09-03T03:49:01.455Z"
+    },
+    {
+      "id": "mijsfmny3zyfin5bxn5",
+      "name": "Rahul",
+      "email": "rahul@example.com",
+      "password": "$2b$12$qlFB83W5EXXUrjFN2u78uumzAt3XxF36tYac0k9bDSjiNIBM5aXTe",
+      "role": "mentor",
+      "phone": "9587823725",
+      "bio": "I'm a Professional Cybersecurity Expert",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-11-29T04:25:07.966Z"
+    },
+    {
+      "id": "mijsic9s90n34mj4wu9",
+      "name": "Praveen",
+      "email": "praveen@example.com",
+      "password": "$2b$12$R45nsVc80W5J5nAwy63Dl.Ys5CSohuRaHZwDMnQ/P5vqri0Zspf7q",
+      "role": "student",
+      "phone": "9587823725",
+      "bio": "hello",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-11-29T04:27:14.464Z"
+    },
+    {
+      "id": "mijuxjkg2fr9ls00zzq",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "$2b$12$Y.bMKdPf41IDGm2ffY.ds.6n2DXMj5DQ5GjhNQjKJqdyPf9YnZSH.",
+      "role": "student",
+      "phone": "9585858585",
+      "bio": "hello",
+      "photo": "default-avatar.png",
+      "createdAt": "2025-11-29T05:35:02.992Z"
+    }
+  ],
+  "students": [
+    {
+      "id": "mf3alog97oftbdjlac8",
+      "userId": "mf3alog2sixhomkm63f",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "education": [
+        {
+          "institution": "Tech University",
+          "degree": "Bachelor of Science",
+          "fieldOfStudy": "Computer Science",
+          "year": 2023
+        }
+      ],
+      "appointments": [
+        "mf3alog9ahbi78akhs7"
+      ]
+    },
+    {
+      "id": "mf3alog9jujig03a1a",
+      "userId": "mf3alog99ueb5l8adf",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Data Analysis"
+      ],
+      "education": [
+        {
+          "institution": "State College",
+          "degree": "Bachelor of Arts",
+          "fieldOfStudy": "Mathematics",
+          "year": 2024
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": "mf3fu2zhy1gxfhdlf2h",
+      "userId": "mf3fu2z3l9aqimzpgb",
+      "skills": [],
+      "education": [],
+      "appointments": [
+        "mf3furgx8ucpdl4q1n7",
+        "mf3gpbzshs0ebx1lrfm",
+        "mf3lou1qsuazzcl9oen",
+        "mf3n4znbhf9d2smdonn"
+      ]
+    },
+    {
+      "id": "mijsic9snslzkr3s2eo",
+      "userId": "mijsic9s90n34mj4wu9",
+      "skills": [],
+      "education": [],
+      "appointments": [
+        "mijsj67c020w7ta401mn",
+        "mijt0fg5svlwtwbpqgo",
+        "mijuw49hxke7su4ceak"
+      ]
+    },
+    {
+      "id": "mijuxjkh4czdg0geg6i",
+      "userId": "mijuxjkg2fr9ls00zzq",
+      "skills": [],
+      "education": [],
+      "appointments": []
+    }
+  ],
+  "mentors": [
+    {
+      "id": "mf3alog9nakbrzc6kml",
+      "userId": "mf3alog92bin10y6xcu",
+      "specialization": "Web Development",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "education": [
+        {
+          "institution": "Engineering College",
+          "degree": "Master of Science",
+          "fieldOfStudy": "Software Engineering",
+          "year": 2015
+        }
+      ],
+      "workExperience": [
+        {
+          "position": "Senior Developer",
+          "company": "Tech Corp",
+          "startDate": "2018-01-01",
+          "endDate": null,
+          "current": true,
+          "description": "Leading a team of developers building web applications"
+        }
+      ],
+      "currentlyWorkingAt": "Tech Corp",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "11:00",
+            "15:00"
+          ]
+        }
+      ],
+      "appointments": [
+        "mf3alog9ahbi78akhs7",
+        "mf3furgx8ucpdl4q1n7",
+        "mf3gpbzshs0ebx1lrfm",
+        "mf3n4znbhf9d2smdonn",
+        "mijuw49hxke7su4ceak"
+      ],
+      "rating": 4.5,
+      "reviews": [
+        "mf3alog9jjhnl4sdf8i"
+      ]
+    },
+    {
+      "id": "mf3alog9mjw5o9zl199",
+      "userId": "mf3alog9dgffidxpil6",
+      "specialization": "Data Science",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow",
+        "SQL",
+        "Data Visualization"
+      ],
+      "education": [
+        {
+          "institution": "Data University",
+          "degree": "PhD",
+          "fieldOfStudy": "Computer Science",
+          "year": 2018
+        }
+      ],
+      "workExperience": [
+        {
+          "position": "Data Scientist",
+          "company": "Data Insights Inc",
+          "startDate": "2019-03-15",
+          "endDate": null,
+          "current": true,
+          "description": "Developing machine learning models for business insights"
+        }
+      ],
+      "currentlyWorkingAt": "Data Insights Inc",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "13:00",
+            "15:00",
+            "17:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "14:00",
+            "16:00"
+          ]
+        }
+      ],
+      "appointments": [],
+      "rating": 4.8,
+      "reviews": []
+    },
+    {
+      "id": "mf3amal8745swce47ch",
+      "userId": "mf3amal8jyz7j16q3o",
+      "specialization": "",
+      "skills": [],
+      "education": [],
+      "workExperience": [],
+      "currentlyWorkingAt": "",
+      "availability": [],
+      "appointments": [],
+      "rating": 0,
+      "reviews": []
+    },
+    {
+      "id": "mf3cwio2dptlgvz21gw",
+      "userId": "mf3cwio0xtv00r8w83",
+      "specialization": "",
+      "skills": [],
+      "education": [],
+      "workExperience": [],
+      "currentlyWorkingAt": "",
+      "availability": [],
+      "appointments": [],
+      "rating": 0,
+      "reviews": []
+    },
+    {
+      "id": "mf3eyki9ptm7udilxvk",
+      "userId": "mf3eyki908tjrqkk787e",
+      "specialization": "AI and Ml",
+      "skills": [
+        "coding"
+      ],
+      "education": [],
+      "workExperience": [],
+      "currentlyWorkingAt": "",
+      "availability": [],
+      "appointments": [
+        "mf3lou1qsuazzcl9oen",
+        "mijt0fg5svlwtwbpqgo"
+      ],
+      "rating": 0,
+      "reviews": []
+    },
+    {
+      "id": "mijsfmo0m5zvw26p8tf",
+      "userId": "mijsfmny3zyfin5bxn5",
+      "specialization": "",
+      "skills": [],
+      "education": [],
+      "workExperience": [],
+      "currentlyWorkingAt": "",
+      "availability": [],
+      "appointments": [
+        "mijsj67c020w7ta401mn"
+      ],
+      "rating": 0,
+      "reviews": []
+    }
+  ],
+  "appointments": [
+    {
+      "id": "mf3alog9ahbi78akhs7",
+      "studentId": "mf3alog97oftbdjlac8",
+      "mentorId": "mf3alog9nakbrzc6kml",
+      "date": "2023-06-15",
+      "time": "14:00",
+      "duration": 60,
+      "purpose": "Career guidance in web development",
+      "status": "approved",
+      "notes": "Great discussion about React best practices",
+      "createdAt": "2025-09-03T01:22:31.305Z"
+    },
+    {
+      "id": "mf3furgx8ucpdl4q1n7",
+      "studentId": "mf3fu2zhy1gxfhdlf2h",
+      "mentorId": "mf3alog9nakbrzc6kml",
+      "date": "2025-09-04",
+      "time": "11:20",
+      "duration": 60,
+      "purpose": "For career guidance",
+      "status": "pending",
+      "createdAt": "2025-09-03T03:49:33.201Z"
+    },
+    {
+      "id": "mf3gpbzshs0ebx1lrfm",
+      "studentId": "mf3fu2zhy1gxfhdlf2h",
+      "mentorId": "mf3alog9nakbrzc6kml",
+      "date": "2025-09-03",
+      "time": "10:00",
+      "duration": 60,
+      "purpose": "Career Guidance",
+      "status": "pending",
+      "createdAt": "2025-09-03T04:13:19.480Z"
+    },
+    {
+      "id": "mf3lou1qsuazzcl9oen",
+      "studentId": "mf3fu2zhy1gxfhdlf2h",
+      "mentorId": "mf3eyki9ptm7udilxvk",
+      "date": "2025-09-04",
+      "time": "14:02",
+      "duration": 60,
+      "purpose": "Career guidance",
+      "status": "pending",
+      "createdAt": "2025-09-03T06:32:54.302Z"
+    },
+    {
+      "id": "mf3n4znbhf9d2smdonn",
+      "studentId": "mf3fu2zhy1gxfhdlf2h",
+      "mentorId": "mf3alog9nakbrzc6kml",
+      "date": "2025-09-09",
+      "time": "14:43",
+      "duration": 60,
+      "purpose": "guidance",
+      "status": "pending",
+      "createdAt": "2025-09-03T07:13:27.672Z"
+    },
+    {
+      "id": "mijsj67c020w7ta401mn",
+      "studentId": "mijsic9snslzkr3s2eo",
+      "mentorId": "mijsfmo0m5zvw26p8tf",
+      "date": "2025-12-01",
+      "time": "12:00",
+      "duration": 30,
+      "purpose": "about guidance",
+      "status": "pending",
+      "createdAt": "2025-11-29T04:27:53.256Z"
+    },
+    {
+      "id": "mijt0fg5svlwtwbpqgo",
+      "studentId": "mijsic9snslzkr3s2eo",
+      "mentorId": "mf3eyki9ptm7udilxvk",
+      "date": "2025-12-02",
+      "time": "10:11",
+      "duration": 60,
+      "purpose": "hyyy",
+      "status": "pending",
+      "createdAt": "2025-11-29T04:41:18.389Z"
+    },
+    {
+      "id": "mijuw49hxke7su4ceak",
+      "studentId": "mijsic9snslzkr3s2eo",
+      "mentorId": "mf3alog9nakbrzc6kml",
+      "date": "2025-12-05",
+      "time": "11:06",
+      "duration": 60,
+      "purpose": "ok",
+      "status": "pending",
+      "createdAt": "2025-11-29T05:33:56.502Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "mf3alog9jjhnl4sdf8i",
+      "studentId": "mf3alog97oftbdjlac8",
+      "mentorId": "mf3alog9nakbrzc6kml",
+      "rating": 5,
+      "comment": "Jane was extremely helpful and provided great insights into the industry.",
+      "createdAt": "2025-09-03T01:22:31.305Z"
+    }
+  ]
+}
